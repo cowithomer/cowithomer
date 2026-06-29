@@ -1,0 +1,31 @@
+{
+  "name": "Tasarim1 - 12x12 Crossword",
+  "gridSize": {
+    "rows": 12,
+    "cols": 12
+  },
+  "words": [
+    {"answer": "KELIME", "description": "Harflerden oluşan ifade", "startx": 1, "starty": 1, "orientation": "across"},
+    {"answer": "KEDİ", "description": "Miyavlayan hayvan", "startx": 1, "starty": 1, "orientation": "down"},
+    {"answer": "ÇEŞİT", "description": "Farklı olanların ayrıldığı sınıf", "startx": 5, "starty": 1, "orientation": "across"},
+    {"answer": "ŞEHRİ", "description": "İstanbul ve Ankara gibi büyük yerleşim", "startx": 5, "starty": 3, "orientation": "down"},
+    {"answer": "GÜNEŞ", "description": "Dünyamızın ısı ve ışık kaynağı", "startx": 8, "starty": 1, "orientation": "across"},
+    {"answer": "GİZLİ", "description": "Gözlerden uzak tutulan, saklı olan", "startx": 8, "starty": 3, "orientation": "down"},
+    {"answer": "BALIK", "description": "Suda yaşayan, pullu canlı", "startx": 0, "starty": 4, "orientation": "across"},
+    {"answer": "BAYAT", "description": "Tazeliğini yitirmiş ekmek", "startx": 0, "starty": 4, "orientation": "down"},
+    {"answer": "DAĞ", "description": "Çevresine göre yüksekte kalan doğal oluşum", "startx": 5, "starty": 4, "orientation": "across"},
+    {"answer": "DANS", "description": "Müzik eşliğinde ritmik vücut hareketleri", "startx": 5, "starty": 4, "orientation": "down"},
+    {"answer": "FAN", "description": "Birini ya da bir şeyi çok seven kişi", "startx": 9, "starty": 4, "orientation": "across"},
+    {"answer": "FARK", "description": "İki şeyi birbirinden ayıran özellik", "startx": 9, "starty": 4, "orientation": "down"},
+    {"answer": "HELAL", "description": "Dinen caiz olan, izin verilen", "startx": 0, "starty": 7, "orientation": "across"},
+    {"answer": "HIZ", "description": "Arabanın göstergesinde yazan değer", "startx": 0, "starty": 7, "orientation": "down"},
+    {"answer": "KAHVE", "description": "Sabahları uyanmak için içilen sıcak içecek", "startx": 5, "starty": 7, "orientation": "across"},
+    {"answer": "KAR", "description": "Beyaz örtü gibi yağan soğuk yağış", "startx": 5, "starty": 7, "orientation": "down"},
+    {"answer": "METİN", "description": "Okumak için yazılmış sözcük dizisi", "startx": 9, "starty": 7, "orientation": "across"},
+    {"answer": "MUTLU", "description": "Gözlerinin içi gülen kişinin hali", "startx": 9, "starty": 7, "orientation": "down"},
+    {"answer": "PASTA", "description": "Doğum gününde mumlarla kesilen tatlı", "startx": 2, "starty": 10, "orientation": "across"},
+    {"answer": "PAMUK", "description": "Beyaz yumuşak lifleriyle bilinen bitki", "startx": 2, "starty": 10, "orientation": "down"},
+    {"answer": "TAŞ", "description": "Sert ve katı doğal madde", "startx": 7, "starty": 10, "orientation": "across"},
+    {"answer": "TAK", "description": "İki parçayı birbirine ekleme emri", "startx": 7, "starty": 10, "orientation": "down"}
+  ]
+}
